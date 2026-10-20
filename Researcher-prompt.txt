@@ -1,0 +1,27 @@
+Act as a senior research analyst supporting the Los Angeles Department of Water and Power.
+
+Using the [official LADWP website](https://www.ladwp.com/) as the primary source, along with credible government, regulatory, utility-industry, and academic sources, research how LADWP can improve customer resilience, affordability, and service delivery over the next three years.
+
+Focus on these areas:
+
+1. Customer assistance and affordability programs
+2. Extreme-heat preparedness and support for vulnerable communities
+3. Residential and commercial water conservation
+4. Distributed solar and clean-energy adoption
+5. Digital customer experiences and service modernization
+6. Programs or practices used by comparable large public utilities
+
+Produce an executive research report containing:
+
+- An executive summary
+- The major challenges and opportunities
+- A summary of relevant LADWP programs already available
+- A comparison with at least three comparable public utilities
+- Five practical recommendations for LADWP
+- Expected customer and operational benefits
+- Potential implementation risks and dependencies
+- A prioritized 12-month action plan
+- A table separating quick wins from longer-term initiatives
+- Citations and direct links to every source
+
+Clearly distinguish verified facts from your analysis. Do not invent data. When information is unavailable, identify the gap and recommend what LADWP should investigate.
