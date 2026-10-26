@@ -14,6 +14,7 @@ A Prompt-a-thon is an immersive interactive learning event to educate participan
 | **Analyst Showcase Data** | Synthetic LADWP dataset (Excel) for the analyst showcase lab | [⬇ Download LADWP_Analyst_Showcase_Synthetic_Data.xlsx](https://github.com/snikjou/copilot-prompt-lab-files/raw/main/LADWP_Analyst_Showcase_Synthetic_Data.xlsx) |
 | **Researcher Prompt** | Sample prompt for the Researcher agent (text) | [⬇ Download Researcher-prompt.txt](https://github.com/snikjou/copilot-prompt-lab-files/raw/main/Researcher-prompt.txt) |
 | **LADWP Logo (PNG)** | LADWP logo (PNG, 1632×484, transparent background) | [⬇ Download LADWPlogo.png](https://github.com/snikjou/copilot-prompt-lab-files/releases/download/logo-assets/LADWPlogo.png) |
+| **Web Chatbot System Prompt** | System prompt for the LADWP web chatbot (text) | [⬇ Download LADWP-Web-Chatbot-system-prompt.txt](https://github.com/snikjou/copilot-prompt-lab-files/raw/main/LADWP-Web-Chatbot-system-prompt.txt) |
 
 Clicking a link downloads the file directly. No GitHub account is needed.
 
