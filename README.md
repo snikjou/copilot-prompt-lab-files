@@ -11,10 +11,10 @@ A Prompt-a-thon is an immersive interactive learning event to educate participan
 |------|-------------|----------|
 | **Hack Pack** | Template deck for reflecting on workflows, writing Copilot use cases and prompts, and sharing them with peers | [⬇ Download Hack-Pack.pptx](https://github.com/snikjou/copilot-prompt-lab-files/raw/main/Hack-Pack.pptx) |
 | **Before You Go** | Prompt-a-thon (LADWP) pre-event checklist: Copilot access, lab files, and the Hack Pack | [⬇ Download Prompt-a-thon-LADWP-Before-You-Go.pdf](https://github.com/snikjou/copilot-prompt-lab-files/raw/main/Prompt-a-thon-LADWP-Before-You-Go.pdf) |
-| **Analyst Showcase Data** | Synthetic LADWP dataset (Excel) for the analyst showcase lab | [⬇ Download LADWP_Analyst_Showcase_Synthetic_Data.xlsx](https://github.com/snikjou/copilot-prompt-lab-files/raw/main/LADWP_Analyst_Showcase_Synthetic_Data.xlsx) |
-| **Researcher Prompt** | Sample prompt for the Researcher agent (text) | [⬇ Download Researcher-prompt.txt](https://github.com/snikjou/copilot-prompt-lab-files/raw/main/Researcher-prompt.txt) |
+| **Analyst Showcase Data** | Synthetic LADWP dataset (Excel) for the analyst showcase lab | [⬇ Download LADWP_Analyst_Showcase_Synthetic_Data.xlsx](https://github.com/snikjou/copilot-prompt-lab-files/releases/download/lab-files/LADWP_Analyst_Showcase_Synthetic_Data.xlsx) |
+| **Researcher Prompt** | Sample prompt for the Researcher agent (text) | [⬇ Download Researcher-prompt.txt](https://github.com/snikjou/copilot-prompt-lab-files/releases/download/lab-files/Researcher-prompt.txt) |
 | **LADWP Logo (PNG)** | LADWP logo (PNG, 1632×484, transparent background) | [⬇ Download LADWPlogo.png](https://github.com/snikjou/copilot-prompt-lab-files/releases/download/logo-assets/LADWPlogo.png) |
-| **Web Chatbot System Prompt** | System prompt for the LADWP web chatbot (text) | [⬇ Download LADWP-Web-Chatbot-system-prompt.txt](https://github.com/snikjou/copilot-prompt-lab-files/raw/main/LADWP-Web-Chatbot-system-prompt.txt) |
+| **Web Chatbot System Prompt** | System prompt for the LADWP web chatbot (text) | [⬇ Download LADWP-Web-Chatbot-system-prompt.txt](https://github.com/snikjou/copilot-prompt-lab-files/releases/download/lab-files/LADWP-Web-Chatbot-system-prompt.txt) |
 
 Clicking a link downloads the file directly. No GitHub account is needed.
 
